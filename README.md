@@ -57,7 +57,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Ruby on Rails - Web Application framework used
 - MySQL - database server
 - Vue.js, Bootstrap - front-end framework / library 
-- Google Cloud Vision API - for scanning receipts (using machine learning)
+- Google Cloud Vision API - for scanning receipts (using computer vision)
 - Swift, Objective-C, Cocoa Pods, X-code) - iOS development
 
 ## License
